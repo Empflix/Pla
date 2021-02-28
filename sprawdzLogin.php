@@ -8,7 +8,7 @@
 
 <?php
     
-    $trueLogin = "admin";
+    $trueLogin = "!admin";
     $truePassw = "admin";
     
 	$login = $_POST['login'];
